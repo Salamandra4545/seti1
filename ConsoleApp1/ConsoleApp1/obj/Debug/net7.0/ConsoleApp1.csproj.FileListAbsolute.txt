@@ -1,0 +1,15 @@
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\banrj\source\repos\Salamandra4545\seti1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
